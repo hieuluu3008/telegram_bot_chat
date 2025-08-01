@@ -28,5 +28,3 @@ This guide walks you through how to create, configure, and interact with a Teleg
 ## 5. 🐍 Python Bot (Optional)
 1. Install: `pip install python-telegram-bot`
 2. Run your bot script
-
->>>>>>> Stashed changes
