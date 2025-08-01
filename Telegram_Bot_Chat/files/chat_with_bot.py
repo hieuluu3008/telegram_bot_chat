@@ -14,7 +14,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Bot Token
-BOT_TOKEN = "7566330401:AAGODThDLRwXs8JlUv9ZvORwimDRhtx3L7c"
+BOT_TOKEN = "81xxxxxx09:AAG-iOxxxxxxxxxxxWO-SBxxxxxxxxxxWg"
 
 # PATH FILE
 ALLOWED_DIRECTORY = r"C:\Users\TS-1352.LAPTOP-9R6P8INJ\Desktop\test"
